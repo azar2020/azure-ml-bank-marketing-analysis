@@ -1,0 +1,24 @@
+{
+  "logistic_regression_auc": 0.8558,
+  "random_forest_auc": 0.9,
+  "best_model": "Random Forest",
+  "test_set_size": 1569,
+  "features_used": [
+    "age",
+    "job",
+    "marital",
+    "education",
+    "default",
+    "balance",
+    "housing",
+    "loan",
+    "contact",
+    "month",
+    "duration",
+    "campaign",
+    "pdays",
+    "previous",
+    "poutcome",
+    "Cluster"
+  ]
+}
