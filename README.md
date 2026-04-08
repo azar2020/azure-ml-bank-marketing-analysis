@@ -1,5 +1,7 @@
 # bank-marketing-analysis
-Customer Segmentation &amp; Subscription Prediction using Azure ML | Python | Scikit-learn
+End-to-end Marketing Analytics project built on Microsoft Azure ML | 
+Customer Segmentation (K-Means) | Subscription Prediction 
+(Random Forest AUC=0.90) | Python | Scikit-learn
 
 
 # 🏦 Bank Marketing Campaign Analysis
