@@ -90,9 +90,7 @@ The goal is to:
 ### Model Comparison
 <img width="2967" height="872" alt="model_comparison" src="https://github.com/user-attachments/assets/67f1fa63-8800-4456-a1ba-d017cd2b4898" />
 
-### Marketing Recommendations
-<img width="2967" height="872" alt="model_comparison" src="https://github.com/user-attachments/assets/aff3aecc-5626-496f-bd7c-5b9a96a327eb" />
-
+ 
 
 ---
 
