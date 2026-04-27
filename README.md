@@ -103,13 +103,7 @@ The goal is to:
 - **Techniques:** EDA, PCA, Feature Engineering, 
   Model Evaluation
 
----
-
-## 🚀 How to Run
-1. Clone this repository
-2. Install requirements: `pip install -r requirements.txt`
-3. Run notebooks in order (01 → 02 → 03 → 04)
-
+ 
 ---
 
 ## 👤 Author
